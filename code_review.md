@@ -1,4 +1,4 @@
-## 3. Code Review
+## Code Review
 
 ### What is code review?
 
@@ -56,11 +56,3 @@ This is the basic structure of the proposed code review. Below are some links th
 <https://www.atlassian.com/agile/code-reviews>
 
 <https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/>
-
-## Navigation
-
-<<< [Introduction to Git](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Writing-Clear-Code.md)
-				
-[Introduction to Markdown and Pandoc](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Intro-to-Markdown-and-Pandoc.md) >>>	
-
-[Back to workshop overview](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Coding%20Workshop%20DNLab.md)
