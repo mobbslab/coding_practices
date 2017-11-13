@@ -1,4 +1,4 @@
-# 2. Introduction to Git
+# Introduction to Git
 This section of the workshop provides a quick tutorial to Git, open source collaboration and version control.
 
 ![git](images/smallgit.png)
@@ -122,13 +122,3 @@ Most of SourceTree's main working functions can be found in the toolbar, at the 
 [Branch Management](https://confluence.atlassian.com/sourcetreekb/branch-management-785325799.html)
 
 These are based on older versions of SourceTree, but the functions should still work the same way
-
-
-
-## Navigation
-
-<<< [Writing Clear Code](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Writing-Clear-Code.md)
-
-[Code Peer-Review](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Code-Peer-Review.md) >>>
-
-[Back to workshop overview](https://github.com/Decision-Neuroscience-Lab/coding-workshop-material/blob/master/Coding%20Workshop%20DNLab.md)
